@@ -1,0 +1,2 @@
+# frama-template
+FramaTemplate
